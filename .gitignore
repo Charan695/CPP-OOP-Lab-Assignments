@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+program
+constructors
+.vscode/
+.idea/
+.DS_Store
+*.swp
